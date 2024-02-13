@@ -1,0 +1,14 @@
+C:\Proyectos Visual Basic\PruebaProyecto\bin\Debug\PruebaProyecto.exe
+C:\Proyectos Visual Basic\PruebaProyecto\bin\Debug\PruebaProyecto.pdb
+C:\Proyectos Visual Basic\PruebaProyecto\bin\Debug\PruebaProyecto.xml
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.Resources.resources
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.GenerateResource.cache
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.exe
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.xml
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.pdb
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.Login.resources
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.MainPage.resources
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.Register.resources
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.UsersTable.resources
+C:\Proyectos Visual Basic\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.AssemblyReference.cache
