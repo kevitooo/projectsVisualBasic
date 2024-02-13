@@ -1,0 +1,12 @@
+C:\Proyectos Visual Basic\CURSOVB\bin\Debug\CURSOVB.exe
+C:\Proyectos Visual Basic\CURSOVB\bin\Debug\CURSOVB.pdb
+C:\Proyectos Visual Basic\CURSOVB\bin\Debug\CURSOVB.xml
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.Resources.resources
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.CONEXION_MANUAL.resources
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.vbproj.GenerateResource.cache
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.vbproj.CoreCompileInputs.cache
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.exe
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.xml
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.pdb
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.Usuarios.resources
+C:\Proyectos Visual Basic\CURSOVB\obj\Debug\CURSOVB.vbproj.AssemblyReference.cache
